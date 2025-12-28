@@ -1,0 +1,3 @@
+
+jika ada warning :
+set HF_HUB_DISABLE_SYMLINKS_WARNING=1
